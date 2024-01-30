@@ -1,0 +1,292 @@
+{
+	"1" : 	{
+		"French_text" : "J'ai la nostalgie du pain de ma mère,",
+		"English_text" : "I'm nostalgic for my mother's bread,",
+		"theme" : "Nostalgia",
+		"word_count_fr" : 8,
+		"char_count_fr" : 27,
+		"theme_no_spaces" : "Nostalgia",
+		"theme_short_name" : "nostalgia"
+	}
+,
+	"2" : 	{
+		"French_text" : "Du café de ma mère,",
+		"English_text" : "My mother's coffee,",
+		"theme" : "Nostalgia",
+		"word_count_fr" : 5,
+		"char_count_fr" : 12,
+		"theme_no_spaces" : "Nostalgia",
+		"theme_short_name" : "nostalgia"
+	}
+,
+	"3" : 	{
+		"French_text" : "Des caresses de ma mère...",
+		"English_text" : "My mother's caresses...",
+		"theme" : "Nostalgia",
+		"word_count_fr" : 5,
+		"char_count_fr" : 18,
+		"theme_no_spaces" : "Nostalgia",
+		"theme_short_name" : "nostalgia"
+	}
+,
+	"4" : 	{
+		"French_text" : "Et l'enfance grandit en moi,",
+		"English_text" : "And childhood grows inside me,",
+		"theme" : "Childhood and Personal Growth",
+		"word_count_fr" : 5,
+		"char_count_fr" : 22,
+		"theme_no_spaces" : "Childhood_and_Personal_Growth",
+		"theme_short_name" : "growth"
+	}
+,
+	"5" : 	{
+		"French_text" : "Jour après jour,",
+		"English_text" : "Day after day,",
+		"theme" : "Childhood and Personal Growth",
+		"word_count_fr" : 3,
+		"char_count_fr" : 12,
+		"theme_no_spaces" : "Childhood_and_Personal_Growth",
+		"theme_short_name" : "growth"
+	}
+,
+	"6" : 	{
+		"French_text" : "Et je chéris ma vie, car",
+		"English_text" : "And I cherish my life, because",
+		"theme" : "Love and Devotion",
+		"word_count_fr" : 6,
+		"char_count_fr" : 17,
+		"theme_no_spaces" : "Love_and_Devotion",
+		"theme_short_name" : "love"
+	}
+,
+	"7" : 	{
+		"French_text" : "Si je mourais,",
+		"English_text" : "If I died,",
+		"theme" : "Connection, Desire for Connection",
+		"word_count_fr" : 3,
+		"char_count_fr" : 11,
+		"theme_no_spaces" : "Connection_and__Desire_for_Connection",
+		"theme_short_name" : "connection"
+	}
+,
+	"8" : 	{
+		"French_text" : "J'aurais honte des larmes de ma mère !",
+		"English_text" : "I'd be ashamed of my mother's tears!",
+		"theme" : "Love and Devotion",
+		"word_count_fr" : 8,
+		"char_count_fr" : 28,
+		"theme_no_spaces" : "Love_and_Devotion",
+		"theme_short_name" : "love"
+	}
+,
+	"9" : 	{
+		"French_text" : "Fais de moi, si je rentre un jour,",
+		"English_text" : "Make me, if I ever return,",
+		"theme" : "Ambiguity and Divinity",
+		"word_count_fr" : 8,
+		"char_count_fr" : 25,
+		"theme_no_spaces" : "Ambiguity_and_Divinity",
+		"theme_short_name" : "ambiguity"
+	}
+,
+	"10" : 	{
+		"French_text" : "Une ombrelle pour tes paupières.",
+		"English_text" : "A shade for your eyelids.",
+		"theme" : "Ambiguity and Divinity",
+		"word_count_fr" : 5,
+		"char_count_fr" : 26,
+		"theme_no_spaces" : "Ambiguity_and_Divinity",
+		"theme_short_name" : "ambiguity"
+	}
+,
+	"11" : 	{
+		"French_text" : "Recouvre mes os de cette herbe",
+		"English_text" : "Cover my bones with this grass",
+		"theme" : "Sacrifice",
+		"word_count_fr" : 6,
+		"char_count_fr" : 25,
+		"theme_no_spaces" : "Sacrifice",
+		"theme_short_name" : "sacrifice"
+	}
+,
+	"12" : 	{
+		"French_text" : "Baptisée sous tes talons innocents.",
+		"English_text" : "Baptized under your innocent heels.",
+		"theme" : "Sacrifice",
+		"word_count_fr" : 5,
+		"char_count_fr" : 29,
+		"theme_no_spaces" : "Sacrifice",
+		"theme_short_name" : "sacrifice"
+	}
+,
+	"13" : 	{
+		"French_text" : "Attache-moi",
+		"English_text" : "Tie me up",
+		"theme" : "Dependence",
+		"word_count_fr" : 1,
+		"char_count_fr" : 10,
+		"theme_no_spaces" : "Dependence",
+		"theme_short_name" : "dependence"
+	}
+,
+	"14" : 	{
+		"French_text" : "Avec une mèche de tes cheveux,",
+		"English_text" : "With a lock of your hair,",
+		"theme" : "Dependence",
+		"word_count_fr" : 6,
+		"char_count_fr" : 23,
+		"theme_no_spaces" : "Dependence",
+		"theme_short_name" : "dependence"
+	}
+,
+	"15" : 	{
+		"French_text" : "Un fil qui pend à l'ourlet de ta robe...",
+		"English_text" : "A thread that hangs from the hem of your dress...",
+		"theme" : "Dependence",
+		"word_count_fr" : 9,
+		"char_count_fr" : 27,
+		"theme_no_spaces" : "Dependence",
+		"theme_short_name" : "dependence"
+	}
+,
+	"16" : 	{
+		"French_text" : "Et je serai, peut-être, un dieu,",
+		"English_text" : "And I'll be, perhaps, a god,",
+		"theme" : "Ambiguity and Divinity",
+		"word_count_fr" : 6,
+		"char_count_fr" : 22,
+		"theme_no_spaces" : "Ambiguity_and_Divinity",
+		"theme_short_name" : "ambiguity"
+	}
+,
+	"17" : 	{
+		"French_text" : "Peut-être un dieu,",
+		"English_text" : "Perhaps a god,",
+		"theme" : "Ambiguity and Divinity",
+		"word_count_fr" : 3,
+		"char_count_fr" : 13,
+		"theme_no_spaces" : "Ambiguity_and_Divinity",
+		"theme_short_name" : "ambiguity"
+	}
+,
+	"18" : 	{
+		"French_text" : "Si j'effleurais ton coeur !",
+		"English_text" : "If I touch your heart!",
+		"theme" : "Connection, Desire for Connection",
+		"word_count_fr" : 5,
+		"char_count_fr" : 21,
+		"theme_no_spaces" : "Connection_and__Desire_for_Connection",
+		"theme_short_name" : "connection"
+	}
+,
+	"19" : 	{
+		"French_text" : "Si je rentre, enfouis-moi,",
+		"English_text" : "Set me, if I ever return",
+		"theme" : "Sacrifice",
+		"word_count_fr" : 4,
+		"char_count_fr" : 20,
+		"theme_no_spaces" : "Sacrifice",
+		"theme_short_name" : "sacrifice"
+	}
+,
+	"20" : 	{
+		"French_text" : "Bûche, dans ton âtre.",
+		"English_text" : "In your oven as fuel to help you cook,",
+		"theme" : "Sacrifice",
+		"word_count_fr" : 4,
+		"char_count_fr" : 14,
+		"theme_no_spaces" : "Sacrifice",
+		"theme_short_name" : "sacrifice"
+	}
+,
+	"21" : 	{
+		"French_text" : "Et suspends-moi,",
+		"English_text" : "And hang me,",
+		"theme" : "Sacrifice",
+		"word_count_fr" : 2,
+		"char_count_fr" : 13,
+		"theme_no_spaces" : "Sacrifice",
+		"theme_short_name" : "sacrifice"
+	}
+,
+	"22" : 	{
+		"French_text" : "Corde à linge, sur le toit de ta maison.",
+		"English_text" : "On your roof as a clothesline stretched in your hands.",
+		"theme" : "Sacrifice",
+		"word_count_fr" : 9,
+		"char_count_fr" : 29,
+		"theme_no_spaces" : "Sacrifice",
+		"theme_short_name" : "sacrifice"
+	}
+,
+	"23" : 	{
+		"French_text" : "Je ne tiens pas debout",
+		"English_text" : "I can no longer stand",
+		"theme" : "Dependence",
+		"word_count_fr" : 5,
+		"char_count_fr" : 18,
+		"theme_no_spaces" : "Dependence",
+		"theme_short_name" : "dependence"
+	}
+,
+	"24" : 	{
+		"French_text" : "Sans ta prière du jour.",
+		"English_text" : "Without your daily prayers.",
+		"theme" : "Dependence",
+		"word_count_fr" : 5,
+		"char_count_fr" : 17,
+		"theme_no_spaces" : "Dependence",
+		"theme_short_name" : "dependence"
+	}
+,
+	"25" : 	{
+		"French_text" : "J'ai vieilli. Ramène les étoiles de l'enfance",
+		"English_text" : "I've grown old. Bring back the stars of childhood",
+		"theme" : "Yearning for Innocence",
+		"word_count_fr" : 7,
+		"char_count_fr" : 34,
+		"theme_no_spaces" : "Yearning_for_Innocence",
+		"theme_short_name" : "innocence"
+	}
+,
+	"26" : 	{
+		"French_text" : "Ramène les étoiles de l'enfance",
+		"English_text" : "Bring back the stars of childhood",
+		"theme" : "Yearning for Innocence",
+		"word_count_fr" : 5,
+		"char_count_fr" : 24,
+		"theme_no_spaces" : "Yearning_for_Innocence",
+		"theme_short_name" : "innocence"
+	}
+,
+	"27" : 	{
+		"French_text" : "Et je partagerai avec les petits des oiseaux,",
+		"English_text" : "And I'll share with the little birds,",
+		"theme" : "Yearning for Innocence",
+		"word_count_fr" : 8,
+		"char_count_fr" : 37,
+		"theme_no_spaces" : "Yearning_for_Innocence",
+		"theme_short_name" : "innocence"
+	}
+,
+	"28" : 	{
+		"French_text" : "Le chemin du retour...",
+		"English_text" : "The way back...",
+		"theme" : "Journey and Homecoming",
+		"word_count_fr" : 4,
+		"char_count_fr" : 16,
+		"theme_no_spaces" : "Journey_and_Homecoming",
+		"theme_short_name" : "journey"
+	}
+,
+	"29" : 	{
+		"French_text" : "Au nid de ton attente ! ",
+		"English_text" : "To the nest of your expectation!",
+		"theme" : "Journey and Homecoming",
+		"word_count_fr" : 6,
+		"char_count_fr" : 17,
+		"theme_no_spaces" : "Journey_and_Homecoming",
+		"theme_short_name" : "journey"
+	}
+
+}

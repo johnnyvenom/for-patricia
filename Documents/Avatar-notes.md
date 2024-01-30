@@ -1,6 +1,11 @@
 Visuals notes
 =============
 
+##
+
+fbx
+mesh
+
 ## Meeting 19-Jan with MIREVA (Chris, Chris, Ben, Ivana)
 
 Discussed pipeline: mocap > avatar; segments that can be sequenced and interpolated in real time. 

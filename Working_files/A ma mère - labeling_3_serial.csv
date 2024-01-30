@@ -1,0 +1,30 @@
+﻿line_no,French_text,English_text,theme,word_count_fr,char_count_fr,theme_no_spaces,theme_short_name
+1,"J'ai la nostalgie du pain de ma mère,","I'm nostalgic for my mother's bread,",Nostalgia,8,27,Nostalgia,nostalgia
+2,"Du café de ma mère,","My mother's coffee,",Nostalgia,5,12,Nostalgia,nostalgia
+3,Des caresses de ma mère...,My mother's caresses...,Nostalgia,5,18,Nostalgia,nostalgia
+4,"Et l'enfance grandit en moi,","And childhood grows inside me,",Childhood and Personal Growth,5,22,Childhood_and_Personal_Growth,growth
+5,"Jour après jour,","Day after day,",Childhood and Personal Growth,3,12,Childhood_and_Personal_Growth,growth
+6,"Et je chéris ma vie, car","And I cherish my life, because",Love and Devotion,6,17,Love_and_Devotion,love
+7,"Si je mourais,","If I died,","Connection, Desire for Connection",3,11,Connection_and__Desire_for_Connection,connection
+8,J'aurais honte des larmes de ma mère !,I'd be ashamed of my mother's tears!,Love and Devotion,8,28,Love_and_Devotion,love
+9,"Fais de moi, si je rentre un jour,","Make me, if I ever return,",Ambiguity and Divinity,8,25,Ambiguity_and_Divinity,ambiguity
+10,Une ombrelle pour tes paupières.,A shade for your eyelids.,Ambiguity and Divinity,5,26,Ambiguity_and_Divinity,ambiguity
+11,Recouvre mes os de cette herbe,Cover my bones with this grass,Sacrifice,6,25,Sacrifice,sacrifice
+12,Baptisée sous tes talons innocents.,Baptized under your innocent heels.,Sacrifice,5,29,Sacrifice,sacrifice
+13,Attache-moi,Tie me up,Dependence,1,10,Dependence,dependence
+14,"Avec une mèche de tes cheveux,","With a lock of your hair,",Dependence,6,23,Dependence,dependence
+15,Un fil qui pend à l'ourlet de ta robe...,A thread that hangs from the hem of your dress...,Dependence,9,27,Dependence,dependence
+16,"Et je serai, peut-être, un dieu,","And I'll be, perhaps, a god,",Ambiguity and Divinity,6,22,Ambiguity_and_Divinity,ambiguity
+17,"Peut-être un dieu,","Perhaps a god,",Ambiguity and Divinity,3,13,Ambiguity_and_Divinity,ambiguity
+18,Si j'effleurais ton coeur !,If I touch your heart!,"Connection, Desire for Connection",5,21,Connection_and__Desire_for_Connection,connection
+19,"Si je rentre, enfouis-moi,","Set me, if I ever return",Sacrifice,4,20,Sacrifice,sacrifice
+20,"Bûche, dans ton âtre.","In your oven as fuel to help you cook,",Sacrifice,4,14,Sacrifice,sacrifice
+21,"Et suspends-moi,","And hang me,",Sacrifice,2,13,Sacrifice,sacrifice
+22,"Corde à linge, sur le toit de ta maison.",On your roof as a clothesline stretched in your hands.,Sacrifice,9,29,Sacrifice,sacrifice
+23,Je ne tiens pas debout,I can no longer stand,Dependence,5,18,Dependence,dependence
+24,Sans ta prière du jour.,Without your daily prayers.,Dependence,5,17,Dependence,dependence
+25,J'ai vieilli. Ramène les étoiles de l'enfance,I've grown old. Bring back the stars of childhood,Yearning for Innocence,7,34,Yearning_for_Innocence,innocence
+26,Ramène les étoiles de l'enfance,Bring back the stars of childhood,Yearning for Innocence,5,24,Yearning_for_Innocence,innocence
+27,"Et je partagerai avec les petits des oiseaux,","And I'll share with the little birds,",Yearning for Innocence,8,37,Yearning_for_Innocence,innocence
+28,Le chemin du retour...,The way back...,Journey and Homecoming,4,16,Journey_and_Homecoming,journey
+29,Au nid de ton attente ! ,To the nest of your expectation!,Journey and Homecoming,6,17,Journey_and_Homecoming,journey
